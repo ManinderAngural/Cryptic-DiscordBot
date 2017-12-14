@@ -1,4 +1,4 @@
-![intro](https://cdn.discordapp.com/icons/342990763782701057/8703b3b9198adb4a166325a59e7028a1.webp?)
+![intro](https://cdn.discordapp.com/attachments/370616847328083968/389342206328045588/avatar.png)
 
 # Cryptic-DiscordBot
 A Discord bot with all the Admin, Fun, Utility and Moderation Tools for your use.
