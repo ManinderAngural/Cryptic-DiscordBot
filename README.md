@@ -6,8 +6,16 @@ A Discord bot with all the Admin, Fun, Utility and Moderation Tools for your use
 [![Discord Bots](https://discordbots.org/api/widget/362865330944737281.png)](https://discordbots.org/bot/362865330944737281)
 
 # Note
-Please **do not** run an instance of my bot, you can invite the bot and use it instead. *It's free!*
+
+The bot is still a work a WIP, the source has be made private for personal reasons.
+
+# Useful Links
 
 * [Bot Invite Link](https://discordapp.com/oauth2/authorize?client_id=362865330944737281&scope=bot&permissions=2146958591)
 * [Bot Support Server](https://discordapp.com/invite/HDWm9Cb)
 * [Upvote us here](https://discordbots.org/bot/362865330944737281)
+
+# Contact
+
+* Email  - maninderjits99@gmail.com
+* Discord - Maninder#5222
