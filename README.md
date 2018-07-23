@@ -1,13 +1,13 @@
 ![intro](https://cdn.discordapp.com/icons/342990763782701057/50a6ac0eac716f1c401a1c2115177204.png)
 
-# Cryptic-DiscordBot
+# Cryptic-DiscordBot [![Discord Bots](https://discordbots.org/api/widget/status/362865330944737281.svg?noavatar=true)](https://discordbots.org/bot/362865330944737281)
 A Discord bot with all the Admin, Fun, Utility and Moderation Tools for your use.
 
-[![Discord Bots](https://discordbots.org/api/widget/362865330944737281.png)](https://discordbots.org/bot/362865330944737281)
+[![Discord Bots](https://discordbots.org/api/widget/362865330944737281.svg)](https://discordbots.org/bot/362865330944737281)
 
 # Note
 
-The bot is still a work a WIP, the source has be made private for personal reasons.
+The bot is still a WIP, drop your feedback if anything breaks or something's buggy, in the support server
 
 # Useful Links
 
@@ -17,5 +17,5 @@ The bot is still a work a WIP, the source has be made private for personal reaso
 
 # Contact
 
-* Email  - maninderjits99@gmail.com
+* Email  - captaincryptic@protonmail.com
 * Discord - Maninder#5222
